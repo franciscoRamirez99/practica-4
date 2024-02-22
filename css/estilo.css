@@ -1,20 +1,10 @@
+a{ 
 
-
-
-
-iframe{
-    width: 100%;
 }
-.caja{
-    display: grid;
-    grid-template-columns: repeat(4,1fr);
-    gap: 2rem;
-    text-align: center;
+.clase_de_desarrollo_web{
+    color: green;
 }
-.caja_informacion{
-    color: rgb(0, 0, 0);
-    background-color: green;
-}
-.fondo, .clasex{
-    background-color: purple;
+.texto{
+    font-family: Arial;
+    color: rgba(153, 51, 136, 0.267);
 }
